@@ -12,7 +12,7 @@ Simply find the camera logo in your radial menu and either choose ON or the sett
 - Saturation
 - Temperature
 - Tint
-- HUe
+- Hue
 - Filter
 - Bloom
 - Vignette
